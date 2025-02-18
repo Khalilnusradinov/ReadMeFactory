@@ -5,7 +5,10 @@
   ## Description
   ReadmeFactory is a command-line application designed to help developers quickly and easily generate high-quality, professional README.md files for their projects. By answering a series of    prompts, users can dynamically create a README that includes essential sections such as Description, Installation, Usage, License, Contributing, Tests, and Questions. The application simplifies the process of documenting projects,        allowing developers to focus more on building and less on writing documentation. Built with Node.js and leveraging the Inquirer package, ReadmeFactory is a must-have tool for open-source contributors and developers looking to maintain    consistent and professional project documentation.
   
-  ## Table of Contents
+  ## Walkthrough Video
+[Click here to watch the video demonstration](https://drive.google.com/file/d/10YreNmxXaFedlx7fCwnml6OBM_VxJaYP/view)
+
+## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
